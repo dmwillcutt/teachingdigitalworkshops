@@ -1,5 +1,6 @@
-# teachingdigitalworkshops
+# Teaching Digital Workshops
 This is a tutorial on how to design a workshop for teaching digital humanities tools. 
+https://dmwillcutt.github.io/teachingdigitalworkshops/
 
 ## Planning Stage
 1. Consider your audience
